@@ -1,57 +1,82 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+### hi, i'm [Jevin Zhao](http://jevinzhao.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="http://tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=811601123&website=www.oicqzone.com">
+  <img align="left" alt="Jevin's QQ" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/QQ.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/jevin.zhao.3/">
+  <img align="left" alt="Jevin's Facebook" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.youtube.com/channel/UCP_A184bpC5UpGjMgizulQA">
+  <img align="left" alt="Jevin's youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://music.163.com/#/user/home?id=311335441">
+  <img align="left" alt="Jevin's music163" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/music163.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Jevin's zhihu" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/zhihutubiao.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=JevinZhao.JevinZhao)
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm JevinZhao, I am now Working at <strong>Tencent</strong> 🐧,School at <strong>WIT</strong>，Major in <strong>Electronic Information Engineering</strong>💻
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I love <strong>OpenSource Movement</strong> ❤️,I like to Record and Share <strong>Knowledge</strong> ☁️
 
+my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/JevinZhao/JevinZhao/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:JevinZhao@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Html-logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/css.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/JavaScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/jQuery.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/thymeleaf.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/vue.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/elementui.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/nodejs_alt.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/spring.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/springboot.svg"></code>
+<br />
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/SPRINGCLOUD.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/dubbo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Apache Tomcat.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/KAFAKA.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/RabbitMQ.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/RocketMQ.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Elasticsearch.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Redis-logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/mysql-蓝.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Oracle DB.svg"></code>
+<br />
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/jenkins-logo-svg-vectordefuben.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/K8S.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Maven.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/swagger.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/postman.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Docker.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Go语言.svg"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          3 hrs 31 mins   ███████████████░░░░░░░░░░   59.54 % 
-JavaScript   2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
-CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Java          3 hrs 31 mins   ███████████████░░░░░░░░░░   59.54 % 
+JavaScript    2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
+CSS           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -64,7 +89,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JevinZhao&show_icons=true&theme=gotham" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JevinZhao&theme=gotham" />
+</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=jevinzhao&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 
 
