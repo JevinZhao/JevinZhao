@@ -43,7 +43,6 @@ my passion for software lies with dreaming up ideas and making them come true wi
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/spring.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/springboot.svg"></code>
-<br />
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/SPRINGCLOUD.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/dubbo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Apache Tomcat.svg"></code>
@@ -54,7 +53,6 @@ my passion for software lies with dreaming up ideas and making them come true wi
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Redis-logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/mysql-蓝.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Oracle DB.svg"></code>
-<br />
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/jenkins-logo-svg-vectordefuben.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/K8S.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Maven.svg"></code>
