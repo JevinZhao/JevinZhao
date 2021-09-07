@@ -1,5 +1,5 @@
 ### hi, i'm [Jevin Zhao](http://jevinzhao.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https:tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=811601123&website=www.oicqzone.com">
+<a href="http:tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=811601123&website=www.oicqzone.com">
   <img align="left" alt="Jevin's QQ" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/QQ.svg" />
 </a>
 <a href="https://www.facebook.com/jevin.zhao.3/">
@@ -39,7 +39,6 @@ my passion for software lies with dreaming up ideas and making them come true wi
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/thymeleaf.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/vue.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/elementui.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/nodejs_alt.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/spring.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/springboot.svg"></code>
