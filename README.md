@@ -42,7 +42,6 @@ my passion for software lies with dreaming up ideas and making them come true wi
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/springboot.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/SPRINGCLOUD.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/dubbo.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Apache Tomcat.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/KAFAKA.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/RabbitMQ.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/RocketMQ.svg"></code>
