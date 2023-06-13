@@ -1,4 +1,4 @@
-### hi, i'm [Jevin Zhao](http://jevinzhao.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hi, i'm [Jevin Zhao](http://jevin.fun/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.facebook.com/jevin.zhao.3/">
   <img align="left" alt="Jevin's Facebook" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Facebook.svg" />
