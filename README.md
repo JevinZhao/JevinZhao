@@ -13,8 +13,6 @@
   <img align="left" alt="Jevin's zhihu" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/zhihutubiao.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=JevinZhao.JevinZhao)
-
 <br />
 
 hi, I'm JevinZhao, I am now Working at <strong>Tencent</strong> 🐧,School at <strong>WIT</strong>，Major in <strong>Electronic Information Engineering</strong>💻
