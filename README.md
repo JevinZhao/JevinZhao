@@ -86,7 +86,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JevinZhao&show_icons=true&theme=gotham" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JevinZhao&theme=gotham" />
 </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=jevinzhao&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jevinzhao&theme=flat&column=10&margin-w=10" alt="logo" height="160" align="center" />
 
 
 
