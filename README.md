@@ -4,7 +4,7 @@
   <img align="left" alt="Jevin's Facebook" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/Facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCP_A184bpC5UpGjMgizulQA">
-  <img align="left" alt="Jevin's youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Jevin's youtube" width="22px" src="https://github.com/JevinZhao/JevinZhao/blob/main/assert/youtube.svg" />
 </a>
 <a href="https://music.163.com/#/user/home?id=311335441">
   <img align="left" alt="Jevin's music163" width="22px" src="https://raw.githubusercontent.com/JevinZhao/JevinZhao/main/assert/music163.svg" />
