@@ -15,7 +15,7 @@
 
 <br />
 
-hi, I'm JevinZhao, I am now Working at <strong>Tencent</strong> 🐧,School at <strong>WIT</strong>，Major in <strong>Electronic Information Engineering</strong>💻
+hi, I'm JevinZhao, I am now Working at <strong>Sinolife</strong> ,School at <strong>WIT</strong>，Major in <strong>Electronic Information Engineering</strong>💻
 
 I love <strong>OpenSource Movement</strong> ❤️,I like to Record and Share <strong>Knowledge</strong> ☁️
 
