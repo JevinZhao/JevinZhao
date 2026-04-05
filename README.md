@@ -83,7 +83,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JevinZhao&show_icons=true&theme=gotham" />
+  <img width="50%" src="https://github-readme-stats-qyvr.vercel.app/api?username=JevinZhao&show_icons=true&theme=gotham" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JevinZhao&theme=gotham" />
 </p>
   <img src="https://github-readme-stats-qyvr.vercel.app/?username=jevinzhao&theme=flat&column=10&margin-w=10" alt="logo" height="160" align="center" />
